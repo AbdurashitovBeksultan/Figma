@@ -6,6 +6,8 @@ const Header = () => {
 		<div>
 			<h1 className='text'>Путь Javascript</h1>
 			header
+      bekafront 
+      <h1>frontend developer</h1>
 		</div>
 	);
 };
