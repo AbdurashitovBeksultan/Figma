@@ -9,13 +9,7 @@ const Main = () => {
 			<img src={foto} alt="" />
 			<p>Можно выделить три основных направления для прогресса JavaScript </p>
 			<img src={part2} alt="" />
-        <h1>LiveScript</h1>
-
-
-
-
-
-
+			<h1>LiveScript</h1>
 
 			<img src={group} alt="" />
 		</div>
