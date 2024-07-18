@@ -15,7 +15,7 @@ const Header = () => {
 						</a>
 					</button>
 
-					<h1 className="text">Путь Javascript</h1>
+					<h1 className="text">Путь JavaScript</h1>
 					{/* <img src={pach} alt="CSS" className="img_foto" /> */}
 					<button className="button_css">
 						<a href="link">CSS</a>
